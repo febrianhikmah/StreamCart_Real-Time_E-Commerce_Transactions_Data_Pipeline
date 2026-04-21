@@ -1,5 +1,5 @@
-KAFKA_BROKER = "localhost:9092"
+KAFKA_BROKER = "xxxxxxxxxxx"
 
-TOPIC_ORDERS = "orders"
-TOPIC_PAYMENTS = "payments"
-TOPIC_SHIPPINGS = "shippings"
+TOPIC_ORDERS = "xxxxxxxxxxx"
+TOPIC_PAYMENTS = "xxxxxxxxxxx"
+TOPIC_SHIPPINGS = "xxxxxxxxxxx"
