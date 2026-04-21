@@ -80,6 +80,7 @@ Data diproses dan dimuat ke database melalui loader:
 - ```shippings_loader.py```
 
 Menggunakan koneksi terpusat dari ```db.py.```
+
 ---
 6. Storage Layer (PostgreSQL)
 
