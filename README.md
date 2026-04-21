@@ -9,7 +9,8 @@ Proyek ini berangkat dari pertanyaan:
 
 Untuk menjawabnya, saya membangun pipeline berbasis event streaming menggunakan Apache Kafka, yang mampu menangani aliran data secara asynchronous dan scalable.
 
-Pipeline ini mencakup proses end-to-end mulai dari data generation, streaming, processing, hingga storage ke PostgreSQL.
+### Pipeline ini mencakup proses end-to-end mulai dari data generation, streaming, processing, hingga storage ke PostgreSQL.
+
 ---
 ## ⚙️ Gambaran Pipeline
 
@@ -94,6 +95,7 @@ Database: **E_Commerce**
 - ```payments```
 - ```shippings```
 
+---
 ## 🧰 Teknologi yang Digunakan
 | Layer           | Teknologi       |
 |-----------------|-----------------|
@@ -102,7 +104,9 @@ Database: **E_Commerce**
 | Data Format     | JSON            |
 | Processing      | Python          |
 | Database        | PostgreSQL      |
+
 ---
+
 ## 🗂️ Struktur Proyek
 ```pesta
 config/
