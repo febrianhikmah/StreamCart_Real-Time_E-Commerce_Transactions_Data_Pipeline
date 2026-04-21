@@ -1,4 +1,4 @@
-# 🚀 STREAMCART: REAL-TIME E-COMMERCE DATA PIPELINE (KAFKA + POSTGRESQL)
+# 🚀 STREAMCART: REAL-TIME E-COMMERCE DATA PIPELINE 
 ## ✨ Gambaran Umum
 
 Proyek ini merupakan implementasi real-time data pipeline yang mensimulasikan aliran transaksi pada sistem e-commerce.
